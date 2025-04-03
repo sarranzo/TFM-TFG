@@ -3,7 +3,8 @@ Master's and bachelor's degree final projects
 
 En este repositorio se recogen los Trabajos Fin de Máster y Fin de Grado:
 
-4 - Estableciendo criterios externos para la actualización de un meta-análisis (2022)
+
+4 - Estableciendo criterios externos para la actualización de un meta-análisis (2022)\n
   TFM Máster Interuniversitario en Metodología de las Ciencias del Comportamiento y de la Salud - UCM | UAM | UNED
   Presentado como póster en el XVII Congreso de Metodología de las Ciencias Sociales y de la Salud (Teruel, 2022)
 
